@@ -261,3 +261,191 @@ http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
 #EXTINF:-1 group-title="轮播",NewTV金牌综艺
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 group-title="南京电信百视通",CCTV1
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",CCTV3
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",CCTV5
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",CCTV5+
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",CCTV6
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",CCTV8
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",CCTV10
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",CCTV14
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",北京卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",东方卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视东方影视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视新闻综合
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视第一财经
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视纪实人文
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视全纪实
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视都市频道
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视ICS
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视五星体育
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视欢笑剧场
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视都市剧场
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视幸福彩
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视MAX极速汽车
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视劲爆体育
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视新视觉体育
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视魅力足球
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视游戏风云
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视生活时尚
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视动漫秀场
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",上视哈哈炫动
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",江苏卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",浙江卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",天津卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",深圳卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",黑龙江卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",辽宁卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",湖北卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",山东卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",安徽卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",湖南卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",江西卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",广东卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",东南卫视
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",体育直播1
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",体育直播2
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",体育直播3
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",体育直播4
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",体育直播5
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",体育直播6
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 group-title="南京电信百视通",体育直播超级直播
+http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV1综合
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV1综合
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV2财经
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV2财经
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV3综艺
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV3综艺
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV4中文国际
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV4中文国际
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV4中文国际-欧洲
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV4中文国际-美洲
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV5体育
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV5体育
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV5+体育赛事
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV6电影
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV6电影
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV7国防军事
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV8电视剧
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV8电视剧
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV9纪录
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV11戏曲
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV11戏曲
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv11hd265/55/20200407/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV12社会与法
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV14少儿
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cctv14hd265/55/20200407/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV14少儿
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV15音乐
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CCTV17农村农业
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CETV1中教1台
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r3/cctv/cetv1hd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",东方卫视
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",江苏卫视
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",浙江卫视
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/cctv/zhejianghd/2500/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",湖南卫视
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd-hunanhd-2500/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",湖南卫视
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/hunanhd265/57/20191230/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",江西卫视
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/jxwshd/57/20190820/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",北京卫视冬奥纪实
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r3/btv/btv6/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",上视新闻综合
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",上视东方影视
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",上视东方都市
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",上视全纪实
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/ocn/quanjishihd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CIBN风尚运动
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cibnfsyd/57/20191029/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",CIBN斗牛财经
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/cibndncj/57/20191029/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",咪咕24小时体育台
+http://117.91.193.189/live.harvest.miguvideo.com:8080/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",直播印象南塘
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200311/sakura02/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",直播荆门樱花部落
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200311/sakura09/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",直播三桥风景
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200311/sakura01/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="扬州电信咪咕",直播间
+http://117.91.193.189/live.harvest.miguvideo.com:8080/migu/kailu/20200311/sakura08/57/index.m3u8?&encrypt=
