@@ -110,145 +110,105 @@
       "filterable": 1
     },
     {
-      "key": "csp_xpath_94sm",
-      "name": "94神马(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/94sm.json"
-    },
-    {
-      "key": "csp_xpath_jpys",
-      "name": "极品影视(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/jpys.json"
-    },
-    {
-      "key": "csp_xpath_age",
-      "name": "AGE动漫(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/agefans.json"
-    },
-    {
-      "key": "csp_xpath_cjt",
-      "name": "CJT影视(XPath)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/ext/appys.json"
-    },
-    {
-      "key": "csp_xpath_Jumi",
-      "name": "剧迷(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/hd2019/OneClickRun/raw/master/xpath/Jumi.json"
-    },
-    {
-      "key": "csp_xpath_tvci",
-      "name": "大师兄(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/tvci.json"
-    },
-    {
-      "key": "csp_xpath_duboku",
-      "name": "独播库(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/duboku.json"
-    },
-    {
-      "key": "csp_xpath_saohuotv",
-      "name": "骚火电影(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/hd2019/OneClickRun/raw/master/xpath/saohuotv2.json"
-    },
-    {
-      "key": "csp_xpath_dm84",
-      "name": "动漫巴士(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/dm84.json"
-    },
-    {
-      "key": "csp_xpath_egg",
-      "name": "蛋蛋影院(XPath)",
-      "type": 3,
-      "api": "csp_XPathEgg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/egg.json"
-    },
-    {
-      "key": "csp_xpath_555",
-      "name": "555电影(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json"
-    },
-    {
-      "key": "csp_xpath_4kyu",
-      "name": "一只鱼4K(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/4kyu.json"
-    },
-    {
-      "key": "csp_xpath_miniku",
-      "name": "迷你库(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/miniku.json"
-    },
-    {
-      "key": "csp_xpath_pianba",
-      "name": "片吧(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/pianba.json"
-    },
+	    "key":"csp_xpath_9EKK",
+	    "name":"9E看看(XPath)",
+	    "type":3,
+	    "api":"csp_XPathMac",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/9EKK.json"
+	},
+	{
+		"key":"csp_xpath_lezhutv",
+		"name":"乐猪TV(XPath)",
+		"type":3,
+		"api":"csp_XPathMac",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":0,
+		"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/lezhutv.json"
+	},
+	{
+	    "key": "csp_xpath_94sm",
+	    "name": "94神马(XPath)",
+	    "type": 3,
+	    "api": "csp_XPath",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/94sm.json"
+	},
+	{
+	"key":"csp_xpath_ysjc",
+	"name":"工厂影视(XPath)",
+	"type":3,
+	"api":"csp_XPath",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":0,
+	"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/ext/gc.json"
+	},
+	{
+	    "key": "csp_xpath_age",
+	    "name": "AGE动漫(XPath)",
+	    "type": 3,
+	    "api": "csp_XPath",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/agefans.json"
+	},
+	{
+	    "key": "csp_xpath_jpyszl",
+	    "name": "极品直链(XPath)",
+	    "type": 3,
+	    "api": "csp_XPathMac",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/jpys.json"
+	},
+	{
+	    "key": "csp_xpath_tvci",
+	    "name": "大师兄(XPath)",
+	    "type": 3,
+	    "api": "csp_XPath",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/tvci.json"
+	},
+	{
+	    "key": "csp_xpath_duboku",
+	    "name": "独播库(XPath)",
+	    "type": 3,
+	    "api": "csp_XPath",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/duboku.json"
+	},
+	{
+	     "key": "csp_xpath_dm84",
+	     "name": "动漫巴士(XPath)",
+	     "type": 3,
+	     "api": "csp_XPath",
+	     "searchable": 1,
+	     "quickSearch": 1,
+	     "filterable": 0,
+	     "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/dm84.json"
+	},
+	{
+	     "key":"csp_xpath_pianba",
+	     "name":"片吧(XPath)",
+	     "type":3,
+	     "api":"csp_XPath",
+	     "searchable":1,
+	     "quickSearch":1,
+	     "filterable": 0,
+	     "ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/pianba.json"
+	},
     {
       "key": "csp_xpath_Ole",
       "name": "欧乐影院(EXO)",
