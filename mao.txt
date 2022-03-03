@@ -318,7 +318,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/Aixixi.json"
-    }，
+    },
     {
       "key": "资源采集",
       "name": "资源采集",
