@@ -2679,7 +2679,7 @@
       "name": "星空影视",
       "type": 1,
       "url": "http://api.vip123kan.vip/?url="
-    },
+    }
   ],
   "flags": [
     "youku",
