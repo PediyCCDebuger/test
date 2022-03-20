@@ -157,8 +157,8 @@ CCTV-4K,http://iptv.tvfix.org/hls/cctv4k.m3u8
 凤凰卫视中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-云南卫视,http://hwzbout.yunshicloud.com:80/8xughf/e0bx15.m3u8
-云南卫视,http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8
+云南卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+云南卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8$标清
 山西卫视,http://220.181.91.187/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8$标清
 陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8$标清
