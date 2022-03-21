@@ -1445,47 +1445,47 @@
         {
           "name": "CCTV-1",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000030810&livemode=1&channel-id=bestzb",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000021973&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000018602&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000002226&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000030810&livemode=1&stbId=2&channel-id=bestzb",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000018602&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000002226&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "CCTV-2",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000012442&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000023315&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000012442&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000023315&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "CCTV-3",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000011218&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000013682&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000011218&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000013682&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "CCTV-4",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000031664&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000031664&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "CCTV-5",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000004794&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000003000030177&livemode=1&channel-id=ystenlive&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000026930&livemode=1&channel-id=bestzb&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000016619&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000004794&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000003000030177&livemode=1&stbId=2&channel-id=ystenlive&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000001000026930&livemode=1&stbId=2&channel-id=bestzb&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000016619&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "CCTV-5+",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000020505&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=reallive-cctv5plus&livemode=1&channel-id=ystenlive&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000018504&livemode=1&channel-id=ystenlive&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000020505&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=reallive-cctv5plus&livemode=1&stbId=2&channel-id=ystenlive&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000018504&livemode=1&stbId=2&channel-id=ystenlive&stbId=10",
             "http://180.96.1.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5phd/4000000/mnf.m3u8"
 
           ]
@@ -1493,121 +1493,121 @@
         {
           "name": "CCTV-6",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000016466&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000001737&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000018433&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000016466&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000001737&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000018433&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "CCTV-7",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000017218&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000024341&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000005000026715&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000017218&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000024341&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000005000026715&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "CCTV-8",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000003736&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000031433&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000018377&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000003736&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000031433&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000018377&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "CCTV-9",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000028286&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000014583&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6350727550077620987&livemode=1&channel-id=wasusyt&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000028286&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6350727550077620987&livemode=1&stbId=2&channel-id=wasusyt&stbId=10"
           ]
         },
         {
           "name": "CCTV-10",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000026367&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000023734&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000012827&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000026367&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000023734&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000012827&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "CCTV-11",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000019789&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6351457414282570521&livemode=1&channel-id=ystenlive&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000019789&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6351457414282570521&livemode=1&stbId=2&channel-id=ystenlive&stbId=10"
           ]
         },
         {
           "name": "CCTV-12",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000001640&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000032494&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000001640&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000032494&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "CCTV-13",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000021303&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6918130250570453526&livemode=1&channel-id=ystenlive&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000021303&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6918130250570453526&livemode=1&stbId=2&channel-id=ystenlive&stbId=10"
           ]
         },
         {
           "name": "CCTV-14",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000021349&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000008170&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000006673&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000021349&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000008170&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000006673&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "CCTV-15",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000008163&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=4832596595465032187&livemode=1&channel-id=ystenlive&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000008163&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=4832596595465032187&livemode=1&stbId=2&channel-id=ystenlive&stbId=10"
           ]
         },
         {
           "name": "CCTV-16",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000006000233002&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000008000023253&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000006000233002&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000008000023253&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "CCTV-17",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000005000056836&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000005000056836&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "CETV1",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000002000002652&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000002000002652&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "CETV4",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000005000025333&livemode=1&channel-id=ystenlive&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000012123&livemode=1&channel-id=bestzb&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000005000025333&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000012123&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清"
           ]
         },
         {
           "name": "CGTN",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7745129417417101820&livemode=1&channel-id=hnbblive&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7745129417417101820&livemode=1&stbId=2&channel-id=hnbblive&stbId=10"
           ]
         },
         {
           "name": "CGTN记录",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7114647837765104058&livemode=1&channel-id=hnbblive&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7114647837765104058&livemode=1&stbId=2&channel-id=hnbblive&stbId=10"
           ]
         },
         {
           "name": "纯享4K",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000004000011651&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000004000011651&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         }
       ]
@@ -1618,252 +1618,252 @@
         {
           "name": "安徽卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000020780&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000030159&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000027288&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000020780&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000030159&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000001000027288&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "北京卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000017156&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000021288&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000031556&livemode=1&channel-id=bestzb&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000011502&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000017156&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000031556&livemode=1&stbId=2&channel-id=bestzb&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000011502&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "北京卡酷少儿",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000002413&livemode=1&channel-id=ystenlive&stbId=10$高清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7851974109718180595&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7589856436881630561&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000002413&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$高清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7851974109718180595&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7589856436881630561&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },
         {
           "name": "重庆卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000018937&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000025797&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000018937&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000025797&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "东方卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000030202&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000005866&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000014098&livemode=1&channel-id=bestzb&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000032246&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000030202&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000005866&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000014098&livemode=1&stbId=2&channel-id=bestzb&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000032246&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "东南卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000009263&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000005829&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000009263&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000001000005829&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "广东卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000028357&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000014176&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000028357&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000014176&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "广东嘉佳卡通",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000025964&livemode=1&channel-id=ystenlive&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000025964&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$高清"
           ]
         },
         {
           "name": "海南卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000006211&livemode=1&channel-id=bestzb",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000023773&livemode=1&channel-id=ystenlive&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000005000025334&livemode=1&channel-id=ystenlive&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6416920617511796880&livemode=1&channel-id=hnbblive&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000006211&livemode=1&stbId=2&channel-id=bestzb",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000023773&livemode=1&stbId=2&channel-id=ystenlive&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000005000025334&livemode=1&stbId=2&channel-id=ystenlive&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6416920617511796880&livemode=1&stbId=2&channel-id=hnbblive&stbId=10"
           ]
         },
         {
           "name": "河北卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040016&livemode=1&channel-id=bestzb&stbId=10$超清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040016&livemode=1&stbId=2&channel-id=bestzb&stbId=10$超清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000017118&livemode=1&stbId=2&channel-id=ystenlive&stbId=10"
           ]
         },
         {
           "name": "河南卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000005000017925&livemode=1&channel-id=bestzb&stbId=10$高清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8857751356853051322&livemode=1&channel-id=wasusyt&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000005000017925&livemode=1&stbId=2&channel-id=bestzb&stbId=10$高清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8857751356853051322&livemode=1&stbId=2&channel-id=wasusyt&stbId=10"
           ]
         },
         {
           "name": "黑龙江卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8467838254824392379&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000009082&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000001925&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8467838254824392379&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000009082&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000001925&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "湖北卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000022140&livemode=1&channel-id=bestzb",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000010355&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000024621&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000022140&livemode=1&stbId=2&channel-id=bestzb",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000010355&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000024621&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "湖南卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000009115&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000032695&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000009115&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000032695&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "湖南电视剧",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8765482907954673867&livemode=1&channel-id=hnbblive&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8765482907954673867&livemode=1&stbId=2&channel-id=hnbblive&stbId=10$高清"
           ]
         },
         {
           "name": "湖南都市",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=4682579636905393407&livemode=1&channel-id=hnbblive&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=4682579636905393407&livemode=1&stbId=2&channel-id=hnbblive&stbId=10$高清"
           ]
         },
         {
           "name": "湖南金鹰卡通",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000016601&livemode=1&channel-id=ystenlive&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000016601&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$高清"
           ]
         },
         {
           "name": "江苏卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000004684&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000001828&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7397162709759672535&livemode=1&channel-id=hnbblive&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000004684&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000001828&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7397162709759672535&livemode=1&stbId=2&channel-id=hnbblive&stbId=10"
           ]
         },
         {
           "name": "江苏优漫卡通",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000010063&livemode=1&channel-id=ystenlive&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000010063&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$高清"
           ]
         },
          {
           "name": "浙江卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000009806&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000014260&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000009806&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000014260&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },       
         {
           "name": "江西卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000013731&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000032154&livemode=1&channel-id=bestzb&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000011210&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000013731&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000001000032154&livemode=1&stbId=2&channel-id=bestzb&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000011210&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "辽宁卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000024033&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000001945&livemode=1&channel-id=ystenlive&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000008940&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000024033&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000001945&livemode=1&stbId=2&channel-id=ystenlive&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000001000008940&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "山东卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000012807&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000016568&livemode=1&channel-id=ystenlive&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000020424&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000012807&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000016568&livemode=1&stbId=2&channel-id=ystenlive&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000020424&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "山东教育卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000004097&livemode=1&channel-id=ystenlive&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000004097&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$高清"
           ]
         },
         {
           "name": "深圳卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000011645&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000009227&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000007410&livemode=1&channel-id=bestzb&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000024026&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000011645&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000009227&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000007410&livemode=1&stbId=2&channel-id=bestzb&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000024026&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "四川卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000006119&livemode=1&channel-id=bestzb",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000006119&livemode=1&channel-id=bestzb$超清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000006119&livemode=1&stbId=2&channel-id=bestzb",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000006119&livemode=1&stbId=2&channel-id=bestzb$超清"
           ]
         },
         {
           "name": "天津卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8798367982904688776&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000000831&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8798367982904688776&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000000831&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "上视全纪实",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040025&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040025&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "上视哈哈炫动",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000005000031641&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000005000031641&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "上视纪实人文",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000021713&livemode=1&channel-id=bestzb&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000021713&livemode=1&channel-id=bestzb&stbId=10",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000010282&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000001000021713&livemode=1&stbId=2&channel-id=bestzb&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000001000021713&livemode=1&stbId=2&channel-id=bestzb&stbId=10",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000010282&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "上视超级体育",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000004876&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000001000004876&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "上视都市频道",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000018926&livemode=1&channel-id=bestzb&stbId=10"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000018926&livemode=1&stbId=2&channel-id=bestzb&stbId=10"
           ]
         },
         {
           "name": "上视魅力足球",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000008656&livemode=1&channel-id=bestzb&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000008656&livemode=1&stbId=2&channel-id=bestzb&stbId=10$高清"
           ]
         },
         {
           "name": "上视ICS",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6032059665143203976&livemode=1&channel-id=bestzb&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6032059665143203976&livemode=1&stbId=2&channel-id=bestzb&stbId=10$高清"
           ]
         },
         {
           "name": "贵州卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000025843&livemode=1&channel-id=bestzb&stbId=10$超清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000028689&livemode=1&channel-id=ystenlive&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000003169&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000004000025843&livemode=1&stbId=2&channel-id=bestzb&stbId=10$超清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000028689&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000003169&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },
         {
@@ -1882,202 +1882,202 @@
         {
           "name": "云南卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040019&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000024694&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040019&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000024694&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },
         {
           "name": "山西卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040023&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000021220&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040023&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000021220&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },
         {
           "name": "陕西卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040017&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000007495&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040017&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000007495&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },        
         {
           "name": "吉林卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=4754049812030405539&livemode=1&channel-id=wasusyt&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=4754049812030405539&livemode=1&stbId=2&channel-id=wasusyt&stbId=10$标清"
           ]
         },        
         {
           "name": "广西卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000019837&livemode=1&channel-id=ystenlive&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=4676357582335641620&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040014&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5411468428139664300&livemode=1&channel-id=hnbblive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000019837&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=4676357582335641620&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040014&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5411468428139664300&livemode=1&stbId=2&channel-id=hnbblive&stbId=10$标清"
           ]
         },
         {
           "name": "甘肃卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000017827&livemode=1&channel-id=ystenlive&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040021&livemode=1&channel-id=bestzb&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000017827&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040021&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清"
           ]
         },
         {
           "name": "南方卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000011619&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000011619&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },
         {
           "name": "内蒙古卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7331079758781182663&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000014080&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7331079758781182663&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000014080&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },
         {
           "name": "宁夏卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040022&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000031451&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040022&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000031451&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },
         {
           "name": "青海安多卫视藏语",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000022124&livemode=1&channel-id=bestzb&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000022124&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清"
           ]
         },
         {
           "name": "青海卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000002000013359&livemode=1&channel-id=ystenlive&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6721180114242078041&livemode=1&channel-id=ystenlive&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000002000013359&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6721180114242078041&livemode=1&stbId=2&channel-id=ystenlive&stbId=10$标清"
           ]
         },
         {
           "name": "新疆卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040018&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5648045890196605092&livemode=1&channel-id=bestzb&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040018&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5648045890196605092&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清"
           ]
         },
         {
           "name": "兵团卫视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040020&livemode=1&channel-id=bestzb&stbId=10$标清",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5417511929530418061&livemode=1&channel-id=wasusyt&stbId=10$标清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000006000040020&livemode=1&stbId=2&channel-id=bestzb&stbId=10$标清",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5417511929530418061&livemode=1&stbId=2&channel-id=wasusyt&stbId=10$标清"
           ]
         },
         {
           "name": "天元围棋",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6430824404013977640&livemode=1&channel-id=hnbblive&stbId=10$高清"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6430824404013977640&livemode=1&stbId=2&channel-id=hnbblive&stbId=10$高清"
           ]
         },
         {
           "name": "黑莓电竞",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000003775&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000006906&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5320946857686967621&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000003775&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000006906&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5320946857686967621&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "黑莓电影",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8785669936177902664&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "黑莓动画",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6497762188035533951&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6497762188035533951&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "上海外语",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000030951&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000030951&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "东方影视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000032212&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000032212&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "动漫秀场",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000002000023636&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000002000023636&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "游戏风云",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000002000027005&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000002000027005&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "都市剧场",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000002000004412&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000002000004412&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "欢笑剧场",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000002000009455&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000002000009455&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "生活时尚",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000002000019634&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000002000019634&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "第一财经",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000027146&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000027146&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "纪实人文",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000010606&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000016545&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000010606&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000016545&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "五星体育",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000017540&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000010000017540&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "劲爆体育",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000002000029972&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000002000029972&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "极速汽车",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000002000004828&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000002000004828&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "陶瓷",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000007000010002&livemode=1&channel-id=bestzb"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5000000007000010002&livemode=1&stbId=2&channel-id=bestzb"
           ]
         },
         {
           "name": "北京冬奥纪实",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000001910&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000001910&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         }
       ]
@@ -2088,149 +2088,149 @@
         {
           "name": "NewTV明星大片",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000004000019008&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5595720619887440144&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000004000019008&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5595720619887440144&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV超级体育",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000009204&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000009601&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000009204&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000009601&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV超级电影",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000012884&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000004000002120&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000012884&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000004000002120&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV超级综艺",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000025771&livemode=1&channel-id=ystenlive",
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000004000023658&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000025771&livemode=1&stbId=2&channel-id=ystenlive",
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000004000023658&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV魅力潇湘",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000006197&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000006197&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV中国功夫",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5897056882324761054&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5897056882324761054&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV军旅剧场",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7485075951068666323&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7485075951068666323&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV军事评论",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5822616274253344775&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5822616274253344775&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV农业致富",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6193684637634073625&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6193684637634073625&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV动作电影",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8103864434730665389&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8103864434730665389&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV古装剧场",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6859053933687922163&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6859053933687922163&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV家庭剧场",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6316377948248689070&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6316377948248689070&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV怡伴健康",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7820874641606664941&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7820874641606664941&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV惊悚悬疑",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7151256057701199617&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7151256057701199617&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV武搏世界",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=bokesen&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=bokesen&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV海外剧场",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7681593242002292003&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7681593242002292003&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV潮妈辣婆",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6516734029835465177&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6516734029835465177&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV炫舞未来",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000000515&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000000515&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV爱情喜剧",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8393829412396288037&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8393829412396288037&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV精品大剧",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7882297361445410858&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7882297361445410858&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV精品纪录",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6298506997017621594&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6298506997017621594&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV超级电视剧",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000008139&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=1000000001000008139&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV金牌综艺",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6399725674632152632&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6399725674632152632&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         },
         {
           "name": "NewTV精品体育",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6460382139625130259&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6460382139625130259&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         }
       ]
@@ -2241,241 +2241,241 @@
         {
           "name": "IHOT爱喜剧",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000010630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱科幻",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000020630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱院线",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000030630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱浪漫",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000040630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱悬疑",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000050630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱经典",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000060630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱谍战",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000070630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱都市",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000080630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱家庭",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000090630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱青春",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000100630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱江湖",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000110630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱美食",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000120630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱娱乐",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000130630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱时尚",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000140630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱历史",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000150630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱科学",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000160630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱军武",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000170630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱幼教",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000180630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱猎奇",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000190630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱解密",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000200630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱世界",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000210630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱玩具",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000220630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱电竞",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000230630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱赛车",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000240630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱旅行",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000250630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱怀旧",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000260630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱奇谈",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000270630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱动漫",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000280630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱体育",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000290630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "IHOT爱探索",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000300630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "求索科学",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000002000032344&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "求索纪录",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000002000032052&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "求索生活",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000002000003382&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "求索动物",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000002000010046&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "风尚音乐",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5529729098703832176&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5529729098703832176&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "精品剧场",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8230197131234717902&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "亚洲影院",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5841816227539527643&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "欧美影院",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=7185203501769528108&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=7185203501769528108&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "精彩影视",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=6000000006000320630&livemode=1&channel-id=wasusyt"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=6000000006000320630&livemode=1&stbId=2&channel-id=wasusyt"
           ]
         },
         {
           "name": "南海网",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=8978605063318475207&livemode=1&channel-id=ystenlive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=8978605063318475207&livemode=1&stbId=2&channel-id=ystenlive"
           ]
         }
       ]
@@ -2486,163 +2486,163 @@
         {
           "name": "咪咕体育1",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000005308&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000005308&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育2",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育3",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000007218&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000007218&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育4",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000008001&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000008001&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育5",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000008176&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000008176&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育6",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000008379&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000008379&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育7",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000010129&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000010129&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育8",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000010948&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000010948&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育9",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000026778&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000026778&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育10",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000028638&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000028638&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育11",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000001000031494&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000001000031494&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育12",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000000097&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000000097&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育13",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000002809&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000002809&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育14",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000003915&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000003915&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育15",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000004193&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000004193&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "CCTV16 4K",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000005180&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000005180&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育17",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000006077&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000006077&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育18",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000006658&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000006658&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育19",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000010833&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000010833&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育20",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000011297&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000011297&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育21",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000012558&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000012558&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育22",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000015560&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000015560&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育23",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000015686&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000015686&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育24",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000021904&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000021904&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育25",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000023434&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000023434&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育26",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000025380&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000025380&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         },
         {
           "name": "咪咕体育27",
           "urls": [
-            "http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=3000000010000027691&livemode=1&stbId=2&channel-id=FifastbLive"
+            "http://39.135.191.33:6610/000000001001/1/1.m3u8?Contentid=3000000010000027691&livemode=1&stbId=2&stbId=2&channel-id=FifastbLive"
           ]
         }
       ]
