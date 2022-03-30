@@ -1,5 +1,5 @@
 {
-  "spider":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
+  "spider":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
   "sites": [
     {
       "key": "csp_Buka",
@@ -45,7 +45,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable":0,
-	  "ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/9EKK.json"
+	  "ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/9EKK.json"
 	},
 	{
 	  "key":"csp_xpath_lezhutv",
@@ -55,7 +55,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable":0,
-	  "ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/lezhutv.json"
+	  "ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/lezhutv.json"
 	},
 	{
 	  "key": "csp_xpath_94sm",
@@ -65,7 +65,7 @@
 	  "searchable": 1,
 	  "quickSearch": 1,
 	  "filterable": 0,
-	  "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/94sm.json"
+	  "ext": "https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/94sm.json"
 	},
 	{
 	  "key": "csp_xpath_age",
@@ -75,7 +75,7 @@
 	  "searchable": 1,
 	  "quickSearch": 1,
 	  "filterable": 0,
-	  "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/agefans.json"
+	  "ext": "https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/agefans.json"
 	},
 	{
 	  "key": "csp_xpath_jpyszl",
@@ -85,7 +85,7 @@
 	  "searchable": 1,
 	  "quickSearch": 1,
 	  "filterable": 0,
-	  "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/jpys.json"
+	  "ext": "https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/jpys.json"
 	},
 	{
  	  "key": "csp_xpath_dm84",
@@ -95,7 +95,7 @@
  	  "searchable": 1,
  	  "quickSearch": 1,
  	  "filterable": 0,
- 	  "ext": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/dm84.json"
+ 	  "ext": "https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/dm84.json"
 	},
 	{
 	  "key": "csp_xpath_fantuan",
