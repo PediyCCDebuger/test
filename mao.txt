@@ -46,26 +46,6 @@
 	  "quickSearch":1,"filterable":1,
 	  "ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/dadagui.json"
     },
-	{
-	  "key":"csp_xpath_if101",
-	  "name":"if101(XP)",
-	  "type":3,
-	  "api":"csp_XPathMacFilter",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/if101.json"
-	},
-	{
-	  "key":"csp_xpath_jbb",
-	  "name":"剧白白(XP)",
-	  "type":3,
-	  "api":"csp_XPathMacFilter",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/jubaibai.json"
-	},
     {
 	  "key":"csp_xpath_9EKK",
 	  "name":"9E看看(XPath)",
