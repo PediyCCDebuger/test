@@ -133,6 +133,8 @@ CCTV高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125
 CCTV女性时尚,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
 CCTV文化精品,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 CCTV央视台球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV央视台球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV央视台球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513702.m3u8
 CCTV央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
 CCTV央视台球,http://117.148.179.147/PLTV/88888888/224/3221231616/index.m3u8
 CCTV电视指南,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
