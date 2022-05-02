@@ -189,6 +189,9 @@
 {"key":"*葡萄资源","name":"*葡萄资源","type":1,"api":"https://api.putaozy.net/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"*色窝资源","name":"*色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"*万影色","name":"*万影色","type":1,"api":"https://wanying4.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"*淫窝资源","name":"*淫窝资源","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"*爱操资源","name":"*爱操资源","type":1,"api":"https://aicaozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"*酷豆资源","name":"*酷豆资源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"*银龙资源","name":"*银龙资源","type":1,"api":"https://yinlong.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
 ],
   "lives": [
