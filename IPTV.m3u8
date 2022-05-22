@@ -192,8 +192,6 @@ http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
 http://39.135.32.28:6610/PLTV/77777777/224/3221225787/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV13
-http://stream10.fjtv.net/cntv13/sd/live.m3u8?_upt=38b082371652615460
-#EXTINF:-1 group-title="央视",CCTV13
 http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 group-title="央视",CCTV14
 http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
@@ -298,7 +296,6 @@ http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 group-title="央视",纯享4K
 http://39.135.138.58:18890/ysten-businessmobile/live/HD-20M-2160P-chunxiang4k/1.m3u8
 
-
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://111.20.33.93/TVOD/88888893/224/3221226196/index.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
@@ -395,8 +392,6 @@ http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
 http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://219.151.136.13/keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视
-http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://111.20.33.93/TVOD/88888893/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="卫视",江苏卫视
@@ -445,8 +440,6 @@ http://112.74.200.9:88/tv000000/m3u8.php?/migu/630291707
 http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视
 http://219.151.136.13/keonline.shanghai.liveplay.qq.com/live/program/live/lnwshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视
-http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
 #EXTINF:-1 group-title="卫视",山东卫视
 http://111.20.33.93/TVOD/88888893/224/3221226209/index.m3u8
 #EXTINF:-1 group-title="卫视",山东卫视
@@ -471,8 +464,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://219.151.136.13/keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视
-http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视
 http://39.134.65.175/PLTV/88888888/224/3221225970/1.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视
@@ -717,8 +708,6 @@ http://39.134.65.177/PLTV/88888888/224/3221225529/1.m3u8
 http://39.134.65.181/PLTV/88888888/224/3221225706/1.m3u8
 #EXTINF:-1 group-title="卫视",体育赛事
 http://39.134.65.183/PLTV/88888888/224/3221225706/1.m3u8
-#EXTINF:-1 group-title="卫视",台球
-http://39.134.19.248:6610/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="卫视",TVB剧场
 http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1 group-title="卫视",超级体育
@@ -739,7 +728,6 @@ http://117.148.179.157/PLTV/88888888/224/3221233401/index.m3u8
 http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
 #EXTINF:-1 group-title="卫视",北京冬奥纪实
 http://117.148.179.157/PLTV/88888888/224/3221233395/index.m3u8
-
 
 #EXTINF:-1 group-title="NewTV",NewTV明星大片
 http://39.135.55.105:6610/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1
@@ -862,10 +850,13 @@ http://39.134.65.173/PLTV/88888888/224/3221225637/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电视剧
 http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
 
-
-#EXTINF:-1 group-title="轮播电影",CHC家庭影院
-http://39.134.19.251:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$超清
-#EXTINF:-1 group-title="轮播电影",CHC高清电影
-http://39.134.19.251:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$超清
 #EXTINF:-1 group-title="轮播电影",CHC动作电影
-http://39.134.19.251:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$超清
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+#EXTINF:-1 group-title="轮播电影",CHC动作电影
+http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="轮播电影",CHC家庭影院
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+#EXTINF:-1 group-title="轮播电影",CHC家庭影院
+http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="轮播电影",CHC家庭影院
+http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
