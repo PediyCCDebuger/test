@@ -111,6 +111,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16,http://117.148.179.157/PLTV/88888888/224/3221233392/index.m3u8
 CCTV16,http://117.148.179.157/PLTV/88888888/224/3221233403/index.m3u8
 CCTV16,http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
+CCTV16-4K,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
 CCTV16-4K,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012492303.m3u8
 CCTV17,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
@@ -148,7 +149,6 @@ CCTV卫生健康,http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/201251350
 CCTV-4K,https://p.ggiptv.com/v/4k.m3u8
 CCTV-4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 CCTV-4K,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
-奥林匹克4k,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
 纯享4K,http://39.135.138.58:18890/ysten-businessmobile/live/HD-20M-2160P-chunxiang4k/1.m3u8
 
 卫视,#genre#
