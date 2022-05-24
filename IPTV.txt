@@ -206,6 +206,7 @@ CCTV-4K,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 江苏卫视,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
 江苏卫视,http://219.151.136.13/keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/4000000/mnf.m3u8
 江苏卫视,http://120.221.209.41/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 浙江卫视,http://111.20.33.93/TVOD/88888893/224/3221226199/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
