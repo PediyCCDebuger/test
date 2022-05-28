@@ -270,6 +270,7 @@ CCTV-4K,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 凤凰卫视中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 凤凰卫视中文台,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/1.m3u8?servicetype=1?zgangd
+凤凰卫视资讯台,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://111.13.42.237/PLTV/88888888/224/3221225949/1.m3u8
 凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
