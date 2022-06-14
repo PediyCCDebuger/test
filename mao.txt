@@ -3,6 +3,7 @@
   "sites": [
 {"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_MjxqApp","name":"美剧星球(SP)","type":3,"api":"csp_MjxqApp","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Buka","name": "真不卡(SP)","type": 3,"api": "csp_Buka","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"csp_DiDuan","name":"低端影视(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
@@ -13,7 +14,8 @@
 //{"key":"csp_Fantuan","name":"饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Qicui","name":"奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_PushAgent","name":"推送(SP)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_AliPanSou","name":"猫搜(SP)(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_PushAgent","name":"推送(SP)","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_xpath_Hdmoli","name":"Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/PediyCCDebuger/OneClickRun/master/xpath/hdmoli.json"},
 //{"key": "csp_N0ys","name": "90影视(SP)","type": 3,"api": "csp_N0ys","searchable": 1,"quickSearch": 0,"filterable": 0},
 //{"key": "csp_Enlienli","name": "嗯哩嗯哩(SP)","type": 3,"api": "csp_Enlienli","searchable": 1,"quickSearch": 0,"filterable": 1},
