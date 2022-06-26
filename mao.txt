@@ -1,5 +1,5 @@
 {
-  "spider":"https://gitea.com/iNT3/TV/raw/branch/main/custom_spider.jar",
+  "spider":"https://gitea.com/iNT3/TV/raw/branch/main/jar_0625_fix.jar",
   "sites": [
 //{"key": "csp_77","name": "七七(SP)","type": 3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"سبعة وسبعة"},
 {"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
