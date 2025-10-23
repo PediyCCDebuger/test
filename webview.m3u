@@ -10,7 +10,7 @@ webview://https://tv.cctv.com/live/cctv3/
 webview://https://tv.cctv.com/live/cctv4/
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🎥央视网",CCTV5
 webview://https://tv.cctv.com/live/cctv5/
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🎥央视网",CCTV5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🎥央视网",CCTV5+
 webview://https://tv.cctv.com/live/cctv5plus/
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="🎥央视网",CCTV6
 webview://https://tv.cctv.com/live/cctv6/
@@ -50,7 +50,7 @@ webview://https://yangshipin.cn/tv/home?pid=600001801
 webview://https://yangshipin.cn/tv/home?pid=600001814
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📽️央视频",CCTV5
 webview://https://yangshipin.cn/tv/home?pid=600001818
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📽️央视频",CCTV5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📽️央视频",CCTV5+
 webview://https://yangshipin.cn/tv/home?pid=600001817
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📽️央视频",CCTV6
 webview://https://yangshipin.cn/tv/home?pid=600108442
