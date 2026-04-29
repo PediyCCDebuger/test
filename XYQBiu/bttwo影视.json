@@ -46,7 +46,7 @@
     "搜索链接": "https://www.bttwo.org/search?q={wd}",
     "POST请求数据":"",
     "搜索截取模式": "1",
-    "搜索列表数组规则": "body&&.group relative",
+    "搜索列表数组规则": "body&&.group:has(.relative)",
     "搜索片单是否Jsoup写法": "1",
     "搜索片单图片": "a&&img&&data-src",
     "搜索片单标题": "a&&h3&&Text",
