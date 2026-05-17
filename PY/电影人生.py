@@ -72,14 +72,14 @@ class Spider(Spider):
         # 处理data-src
         if data_src and not data_src.startswith("data:"):
             if data_src.startswith("/"):
-                return f"{self.img_host}{data_src}"
-            return f"{self.img_host}/{data_src}"
+                return f"{self.base_url}{data_src}"
+            return f"{self.base_url}/{data_src}"
         
         # 处理相对路径的src
         if src and not src.startswith("data:") and not src.startswith("http"):
             if src.startswith("/"):
-                return f"{self.img_host}{src}"
-            return f"{self.img_host}/{src}"
+                return f"{self.base_url}{src}"
+            return f"{self.base_url}/{src}"
         
         return src
 
