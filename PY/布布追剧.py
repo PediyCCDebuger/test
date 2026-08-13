@@ -39,7 +39,7 @@ CATE_NAME = {"1": "电影", "2": "剧集", "3": "动漫", "4": "综艺"}
 class Spider(BaseSpider):
     def __init__(self):
         super().__init__()
-        self.host = "https://duoduosdf12223234334.top"
+        self.host = "https://c453sddsc451azx.top"
         self.headers = dict(API_HEADERS)
         self.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
         self.session = requests.Session()
